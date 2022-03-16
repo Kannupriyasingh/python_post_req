@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    background-color: grey;
+}
+
+.content{
+    margin: 0 auto;
+    width: 400px;
+}
